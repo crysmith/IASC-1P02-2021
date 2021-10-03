@@ -1,0 +1,37 @@
+div p{
+  text-align: center;
+}
+
+p#border{
+  border: purple dotted 3px;
+  margin: 3px 3px 3px 3px;
+  padding: 200px 20px 20px 20px;
+}
+
+p#size{
+  font-size: 10px;
+  color: green;
+  font-weight: bold;
+}
+
+p#left{
+  color: orange;
+  font-size: 30px;
+}
+
+span#redSuper{
+  color: red;
+vertical-align: super;
+}
+
+p#right{
+  color: purple;
+  text-align: right;
+  font-size: 8px
+}
+
+span#yellowCaps{
+color: yellow;
+font-style: italic;
+text-transform: uppercase;
+}
