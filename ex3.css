@@ -1,0 +1,21 @@
+body{
+  background-color: green;
+}
+
+p{
+  color: purple;
+}
+
+div#border{
+  border: black dotted 3px;
+  margin: 0px 5px 5px 5px;
+  padding: 15px 10px 15px 10px;
+}
+
+p#red{
+  color: red;
+}
+
+p#green{
+  color: darkgreen;
+}
