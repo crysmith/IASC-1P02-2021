@@ -1,0 +1,66 @@
+#header{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Arial;
+  height: 65px;
+  padding-top: 2px;
+  padding-bottom: 20px;
+}
+
+#mid{
+  background-color: green;
+  text-align: center;
+  height: 110px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-family: Arial;
+}
+
+#side{
+  float:left;
+	width:265px;
+	height: 400px;
+background-color: white;
+font-family: Arial;
+}
+
+#map{
+  float:right;
+	width:540px;
+	height:400px;
+background-color: orange;
+font-family: Arial;
+}
+
+#footer{
+  clear: both;
+  background-color: black;
+height: 80px;
+color: white;
+text-align: center;
+padding-top: 5px;
+font-family: Arial;
+}
+
+#logo{
+  position: fixed;
+  left: 15px;
+  top: 11px;
+  width: 80px;
+  height: 80px;
+}
+
+#irish{
+  position: fixed;
+  right: 100px;
+  top: 240px;
+  width: 350px;
+  height: 350px;
+}
+
+#fixed{
+  position: fixed;
+  right: 270px;
+  top: 580px;
+}
